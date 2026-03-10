@@ -5,7 +5,7 @@ def sales_report():
 
     while keep_going:
         print("\n--- Sales Report ---")
-        product_name = input("Enter product name (or 'done' to finish): ")
+        product_name = input("Enter product name: ")
 
         try:
             quantity_sold = int(input(f"Enter quantity of {product_name} sold: "))
