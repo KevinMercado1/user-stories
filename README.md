@@ -30,17 +30,6 @@ Subtotal = Unit Price \* Quantity
 - Storage: [Insert Storage Method]
 - Interface: [Insert Interface Type]
 
-## Installation
-
-1. Clone the repository:
-   git clone https://github.com/KevinMercado1/user-stories.git
-
-2. Navigate to the directory:
-   cd repository-name
-
-3. Run the application:
-   [Insert Run Command]
-
 ## Example
 
 - Item: Laptop
