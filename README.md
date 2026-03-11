@@ -4,9 +4,6 @@ A simple repository to manage and document project requirements using the **User
 
 ---
 
-## Overview
-![Project Preview](https://raw.githubusercontent.com/KevinMercado1/user-stories/main/preview.png)
-
 ##  Goal
 The main objective of this repository is to transform business needs into functional requirements following the **Agile** approach:
 > **As a** [user], **I want** [action], **so that** [value].
