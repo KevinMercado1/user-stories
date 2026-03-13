@@ -4,10 +4,6 @@ A simple repository to manage and document project requirements using the **User
 
 ---
 
-##  Goal
-The main objective of this repository is to transform business needs into functional requirements following the **Agile** approach:
-> **As a** [user], **I want** [action], **so that** [value].
-
 ## 🛠 Features
 * **Clear Roles:** Definition of different types of users.
 * **Acceptance Criteria:** Specific conditions for each story to be "Done".
