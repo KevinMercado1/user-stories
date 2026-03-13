@@ -18,6 +18,12 @@ The main objective of this repository is to transform business needs into functi
 * `Completed/`: Stories already implemented.
 * `Assets/`: Images and diagrams.
 
+
+## Image of Diagram
+
+**diagram**: ** [image.png]
+
+
 ## How to use
 1.  **Clone the repo:**
     ```bash
